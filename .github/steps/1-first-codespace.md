@@ -1,20 +1,3 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
-
-# GitHub Codespaces と Visual Studio Code でコードを書く
-
-_GitHub Codespaces と Visual Studio Code を使って開発しよう！_
-
-</header>
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -80,16 +63,3 @@ GitHub Codespaces を使った開発を始めるには、テンプレートや�
 1. これでコードがリポジトリにプッシュされました！
 1. リポジトリのホームページに戻り、`index.html` を開いて新しいコードが反映されていることを確認します。
 1. 約20秒待ってからこのページ（手順を見ているページ）をリロードしてください。[GitHub Actions](https://docs.github.com/ja/actions) により自動的に次のステップに進みます。
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-&copy; 2025 Avanade &bull; [MITライセンス](https://gh.io/mit)
-
-</footer>
